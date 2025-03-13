@@ -2,8 +2,6 @@
 
 Bu proje, modern bir proje yönetim sistemi uygulamasıdır. Kullanıcıların projeler oluşturmasına, görevleri yönetmesine ve ekip üyeleriyle işbirliği yapmasına olanak tanır. Flask tabanlı bir backend API ve Vue.js tabanlı bir frontend arayüzü içerir.
 
-![Proje Yönetim Sistemi]
-
 ## 📋 İçindekiler
 
 - [Özellikler](#özellikler)
