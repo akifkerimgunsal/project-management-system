@@ -16,11 +16,8 @@ Bu proje, modern bir proje yönetim sistemi uygulamasıdır. Kullanıcıların p
 - [Kullanım](#kullanım)
 - [API Dokümantasyonu](#api-dokümantasyonu)
 - [Veri Modeli](#veri-modeli)
-- [Katkıda Bulunma](#katkıda-bulunma)
-- [Lisans](#lisans)
-- [İletişim](#iletişim)
 
-## ✨ Özellikler
+## Özellikler
 
 - **Kullanıcı Yönetimi**: Kayıt olma, giriş yapma ve kullanıcı profili yönetimi
 - **Proje Yönetimi**: Projeler oluşturma, düzenleme ve silme
@@ -30,7 +27,7 @@ Bu proje, modern bir proje yönetim sistemi uygulamasıdır. Kullanıcıların p
 - **Denetim Günlüğü**: Sistem üzerindeki tüm değişikliklerin kaydını tutma
 - **Responsive Tasarım**: Mobil cihazlar dahil tüm ekran boyutlarına uyumlu arayüz
 
-## 🛠️ Teknoloji Yığını
+## Teknoloji Yığını
 
 ### Backend
 - **Python 3.8+**
@@ -51,7 +48,7 @@ Bu proje, modern bir proje yönetim sistemi uygulamasıdır. Kullanıcıların p
 - **SQLite** (Geliştirme)
 - **PostgreSQL** (Üretim)
 
-## 🏗️ Sistem Mimarisi
+## Sistem Mimarisi
 
 Proje, modern bir katmanlı mimari kullanılarak geliştirilmiştir:
 
@@ -71,7 +68,7 @@ Proje, modern bir katmanlı mimari kullanılarak geliştirilmiştir:
     └── Varlıklar (assets/)
 ```
 
-## 🚀 Kurulum
+## Kurulum
 
 ### Gereksinimler
 
@@ -136,7 +133,7 @@ Proje, modern bir katmanlı mimari kullanılarak geliştirilmiştir:
    
    Frontend uygulaması http://localhost:5173 adresinde çalışacaktır.
 
-## 📝 Kullanım
+## Kullanım
 
 ### Kullanıcı Kaydı ve Giriş
 
@@ -157,7 +154,7 @@ Proje, modern bir katmanlı mimari kullanılarak geliştirilmiştir:
 3. Görev başlığı, açıklaması, atanan kişi ve son tarihi girin
 4. Görevleri sürükle-bırak ile farklı durumlara taşıyabilirsiniz
 
-## 📚 API Dokümantasyonu
+## API Dokümantasyonu
 
 ### Kimlik Doğrulama
 
@@ -198,7 +195,7 @@ PUT /api/tasks/{id} - Görev güncelle
 DELETE /api/tasks/{id} - Görev sil
 ```
 
-## 📊 Veri Modeli
+##  Veri Modeli
 
 Proje aşağıdaki ana veri modellerini kullanır:
 
